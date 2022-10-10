@@ -20,7 +20,9 @@
 
 - [x] Documentação dos principais pontos do projeto;
 - [x] Modelando o DER do Banco de Dados com MySQL;
-- [ ] Integração com Spring/Java;
+- [x] Integração com Spring/Java;
+- 	[x] 1. Criação do CRUD para a parte de Temas;
+- 	[x] 2. Criação do CRUD para a parte de Postagens;
 - [ ] Desenvolvimento no Front web com HTML, CSS e frameworks. 
 
 <a name="motivacoes"><h2>Motivações do Projeto</h2></a>
@@ -36,7 +38,7 @@
 <a name="ferramentas"><h2>Ferramentas e tecnologias utilizadas 🔧</h2></a>
 * Java/Spring para Back-end; 
 * MySQL para Banco de Dados;
-* React e Angular para Front-end. 
+* HTML, CSS, React e Angular para Front-end. 
   
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
