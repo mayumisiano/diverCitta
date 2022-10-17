@@ -4,6 +4,7 @@
 
 <p align="center"> •
  <a href="#objetivo">Objetivos</a> •
+ <a href="#ods">ODS</a> •
  <a href="#motivacoes">Motivações do Projeto</a> •
  <a href="#ferramentas">Ferramentas Utilizadas</a> •
  <a href="#autoras">Autoras do Projeto</a>  
@@ -15,6 +16,10 @@
 
 <a name="objetivo"><h2>Objetivos do Projeto</h2></a>
 <p>Trazer visibilidade e destacar a causa de comunidades sustentáveis através de uma Rede Social voltada para a conscientização e comunicação de ambientes seguros e adequados para famílias PCD, gerando vínculo e identificação entre seus usuários para que se sintam incluídos e descubram novas comunidades.</p>
+
+<a name="ods"><h2> ODS - 11 Cidades e Comunidades Sustentáveis </h2></a>
+<h3>Meta 11.7</h3>
+<p>Nações Unidas: Até 2030, proporcionar o acesso universal a espaços públicos seguros, inclusivos, acessíveis e verdes, particularmente para as mulheres e crianças, pessoas idosas e pessoas com deficiência.</p>
 
 ### Features
 
